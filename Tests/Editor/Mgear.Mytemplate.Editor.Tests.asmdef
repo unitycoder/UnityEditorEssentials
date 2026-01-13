@@ -1,0 +1,14 @@
+{
+    "name": "Mgear.Mytemplate.Editor.Tests",
+    "references": [
+        "Mgear.Mytemplate.Editor",
+        "Mgear.Mytemplate"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

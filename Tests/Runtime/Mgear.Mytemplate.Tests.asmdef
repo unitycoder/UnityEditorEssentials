@@ -1,0 +1,11 @@
+{
+    "name": "Mgear.Mytemplate.Tests",
+    "references": [
+        "Mgear.Mytemplate"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

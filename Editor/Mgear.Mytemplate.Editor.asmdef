@@ -1,0 +1,10 @@
+{
+    "name": "Mgear.Mytemplate.Editor",
+    "references": [
+      "Mgear.Mytemplate"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
