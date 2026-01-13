@@ -1,6 +1,6 @@
 ### Description
 
-Unity Editor Essentials.
+Unity Editor Essentials (currently aimed for Unity 6000.3 and later)
 
 ### Installation
 
