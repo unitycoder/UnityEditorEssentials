@@ -1,6 +1,8 @@
-Use this file to describe your package's features.
+### Description
+
+Unity Editor Essentials.
 
 ### Installation
 
 Unity Package Manager: Install Package from GIT Url... 
-```https://github.com/unitycoder/UnityPackageTemplate.git```
+```https://github.com/unitycoder/UnityEditorEssentials.git```

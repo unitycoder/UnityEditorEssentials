@@ -1,18 +1,18 @@
 {
-	"name": "com.unitycoder.template",
-	"displayName":"template",
+	"name": "com.unitycoder.essentials",
+	"displayName":"Essentials",
 	"version": "0.0.1",
-	"unity": "6000.0",
-	"unityRelease": "64f1",
-	"description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25AA What the package does \n\u25AA How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+	"unity": "6000.3",
+	"unityRelease": "0f1",
+	"description": "Unity Editor Essentials (6000.3 and later)",
 	"dependencies": {
 	},
 	"author": {
 		"name": "mgear",
-		"url": "http://www.example.com",
-		"email": "example@email.com"
+		"url": "https://unitycoder.com",
+		"email": ""
 	},
-	"changelogUrl": "https://example.com/changelog.html",
-	"documentationUrl": "https://example.com/",
-	"licensesUrl": "https://example.com/licensing.html"
+	"changelogUrl": "https://github.com/unitycoder/UnityEditorEssentials/commits/main/",
+	"documentationUrl": "https://github.com/unitycoder/UnityEditorEssentials",
+	"licensesUrl": "https://github.com/unitycoder/UnityEditorEssentials/blob/main/LICENSE"
 }
