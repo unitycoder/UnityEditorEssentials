@@ -5,7 +5,7 @@ Unity Editor Essentials.
 ### Installation
 
 - Unity Package Manager: Install Package from GIT Url... ```https://github.com/unitycoder/UnityEditorEssentials.git```
-- Right Click on editor maintoolbar, Enable These buttons from Tools/...
+- Right Click on editor maintoolbar, Enable These buttons from Tools/... (you can move them around by holding Ctrl button and drag with mouse)
 
 
 # Features
